@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Test</string>
+    <string name="empty_DateField">Debes seleccionar una fecha</string>
+    <string name="description">Elige una fecha para mostrar en una gráfica el precio del Dolar-Euro</string>
+    <string name="edit_date_hint">Fecha</string>
+    <string name="date_btn_text">Ver Gráfica</string>
 </resources>
